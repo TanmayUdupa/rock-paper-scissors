@@ -1,0 +1,47 @@
+body {
+    background-color: #FFE5B4;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    transition: all 0.07s;
+}
+
+img:hover {
+    width: 320px;
+    height: 320px;
+}
+
+.selection {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+.result {
+    margin: 20px;
+}
+
+.result, .selection, .scores {
+    color: brown;
+    font-size: 40px;
+    text-align: center;
+}
+
+.scores {
+    display: flex;
+    flex-direction: column;
+}
