@@ -4,8 +4,6 @@ This is a simple implementation of the game, "rock paper scissors" using Javascr
 By doing this project, I have learnt how to manipulate the DOM with Javascript and making that happen dynamically using Event Listeners.
 
 **Acknowledgements:**
-*Rock* image from Wallpaperflare
-*Paper* image from Peakpx
-*Scissors* image from Wikimedia Commons
+*Rock* image from Wallpaperflare, *Paper* image from Peakpx, *Scissors* image from Wikimedia Commons
 
 Live preview: [Rock Paper Scissors](https://tanmayudupa.github.io/rock-paper-scissors/)
